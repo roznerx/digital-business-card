@@ -1,0 +1,18 @@
+.social-container {
+    position: absolute;
+    width: 317px;
+    height: 64px;
+    left: 116px;
+    top: 720px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.twitter, .instagram, .stackoverflow, .github {
+    width: 25px;
+    height: 25px;
+    color: #918E9B;
+    margin-left: 65px;
+    margin-top: 15px;
+    margin-right: -38px;
+}

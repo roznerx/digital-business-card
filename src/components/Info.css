@@ -1,0 +1,143 @@
+.info-container {
+    position: absolute;
+    width: 317px;
+    height: auto;
+    left: 116px;
+    top: 361px;
+    background: #1A1B21;
+}
+
+.my-name {
+    height: 25.81px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.my-job {
+    height: 14.19px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+    color: #F3BF99;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.my-website {
+    height: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    text-align: center;
+    color: #F5F5F5;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #F5F5F5;
+}
+
+.btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.mail-btn, .linkedin-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* Auto layout */
+    padding: 9px 13px 9px 11px;
+    width: 115px;
+    height: 34px;
+    left: 151px;
+    top: 468px;
+    /* white */
+    /* gray/300 */
+    box-sizing: border-box;
+    /* shadow/sm */
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    border: none;
+}
+
+.mail-btn {
+    background: #FFFFFF;
+    gap: 10px;
+}
+
+.linkedin-btn {
+    background: #5093E2;
+    gap: 5px;
+}
+
+.linkedin {
+    position: static;
+    width: 16px;
+    height: 16px;
+    left: 16px;
+    top: 9px;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.about-interests-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.info-title {
+    width: 242.71px;
+    height: 21px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #F5F5F5;
+    padding: 0;
+    margin: 0;
+    margin-top: 15px;
+}
+
+.info-text {
+    width: 247px;
+    height: 61px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #DCDCDC;
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+}
