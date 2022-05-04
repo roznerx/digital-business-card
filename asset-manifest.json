@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-business-card/static/css/main.d897a505.css",
+    "main.js": "/digital-business-card/static/js/main.7a5d3aee.js",
+    "static/media/ignacio-elias-rosner.png": "/digital-business-card/static/media/ignacio-elias-rosner.f50b29538856f75ed276.png",
+    "index.html": "/digital-business-card/index.html",
+    "main.d897a505.css.map": "/digital-business-card/static/css/main.d897a505.css.map",
+    "main.7a5d3aee.js.map": "/digital-business-card/static/js/main.7a5d3aee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d897a505.css",
+    "static/js/main.7a5d3aee.js"
+  ]
+}
